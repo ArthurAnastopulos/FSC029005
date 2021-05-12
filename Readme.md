@@ -4,4 +4,4 @@
 
 ## Conteúdo
 
- * [Eletrostática](eletrostatica) - Slides
+ * [Eletrostática](eletrostatica) - Slides, Listas e Vídeo-aulas.
